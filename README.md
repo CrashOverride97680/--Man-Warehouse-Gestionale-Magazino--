@@ -23,7 +23,7 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
    * Apache2.
    * Postfix (Per fare il relay della mail dell'amministratore tramite server esterno).
    * Phpmyadmin.
-   * Mysql
+   * Mysql.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Installazione dell'app:

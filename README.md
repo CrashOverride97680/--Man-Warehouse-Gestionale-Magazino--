@@ -15,10 +15,10 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
    
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Requisiti per l'installazione
-* Windows::camel:
+* Windows: :camel:
     * Xampp.
     * Configurazione del sendmail per il relay.
-* Linux::rocket:
+* Linux: :rocket:
     * Apache2.
     * Mysql
     * Postfix (Per fare il relay della mail dell'amministratore tramite server esterno).

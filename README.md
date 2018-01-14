@@ -1,7 +1,7 @@
 
 # Gestionale di magazino
 
-Questo gestionale è stato creato da me per motivi scoilastici, si chiama così perchè può essere ussato per gestire interamente la    contabilita dio magazino, questo nome **Axel Corporation è un nome fittizio creato a livello scolastico.**
+Questo gestionale è stato creato da me per motivi scoilastici, si chiama così perchè può essere usato per gestire interamente la contabilita di magazino, questo nome **Axel Corporation è un nome fittizio creato a livello scolastico.**
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 

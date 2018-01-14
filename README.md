@@ -7,6 +7,6 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
            2. Pannelli per gestione e controllo forniture.
            3. Pannello amministratore.
                       Composto da :
-                                 3.1 Pannello Per controllo accessi odierni o in determinate date
-                                 3.2 Pannello per registrare un nuovo utente utilizzando smtp
-                                 3.3 creazione di id e password affidate al programma stesso
+                                 3.1 Pannello Per controllo accessi odierni o in determinate date.
+                                 3.2 Pannello per registrare un nuovo utente utilizzando smtp.
+                                 3.3 creazione di id e password affidate al programma stesso.

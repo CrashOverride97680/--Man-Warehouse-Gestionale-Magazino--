@@ -32,8 +32,8 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
 
 # Linguaggi utilizzati:
 
-** Ho utilizzato Php per la creazione del beck-end dell'app. **
-** SQL per la gestione del database. **
-** Per il front-end Html v.5, Javascript, Css3. **
-** Framework front-end: bootstrap, Pacejs e jquery. **
+**Ho utilizzato Php per la creazione del beck-end dell'app.**
+**SQL per la gestione del database.**
+**Per il front-end Html v.5, Javascript, Css3.**
+**Framework front-end: bootstrap, Pacejs e jquery.**
  :octocat: 

@@ -1,6 +1,6 @@
 # Gestionale di magazino
 
-Questo gestionale è stato creato da me per motivi scoilastici, si chiama così perchè può essere ussato per gestire interamente la    contabilita dio magazino, questo nome axel corporation è un nome fittizio creato a livello scolastico.
+Questo gestionale è stato creato da me per motivi scoilastici, si chiama così perchè può essere ussato per gestire interamente la    contabilita dio magazino, *questo nome Axel Corporation è un nome fittizio creato a livello scolastico*.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
                                  3.3 creazione di id e password affidate al programma stesso.
    
 ----------------------------------------------------------------------------------------------------------------------------------------
-# Requisiti per l'installazione
+# Requisiti per l'installazione:
 * Windows: :camel:
     * Xampp.
     * Configurazione del sendmail per il relay.
@@ -24,7 +24,7 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
     * Postfix (Per fare il relay della mail dell'amministratore tramite server esterno).
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Installazione dell'app.
+# Installazione dell'app:
 
 
 

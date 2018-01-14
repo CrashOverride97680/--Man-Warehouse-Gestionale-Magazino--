@@ -1,7 +1,7 @@
 
 # Gestionale di magazino
 
-Questo gestionale è stato creato da me per motivi scoilastici, si chiama così perchè può essere usato per gestire interamente la contabilita di magazino, questo nome **Axel Corporation è un nome fittizio creato a livello scolastico.**
+Questo gestionale è stato creato da me per motivi scoilastici, si chiama così perchè può essere usato per gestire interamente la contabilita di magazino, questo nome **Axel Corporation è un nome fittizio creato sempre a livello scolastico.**
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,12 +21,13 @@ Questo gestionale è stato creato da me per motivi scoilastici, si chiama così 
     * Configurazione del sendmail per il relay.
 * Linux: :rocket:
     * Apache2.
-    * Mysql
-    * Postfix (Per fare il relay della mail dell'amministratore tramite server esterno).
+    * Mysql. 
+    * Postfix (Per fare il relay della mail dell'amministratore tramite server esterno).
+    * Phpmyadmin. 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Installazione dell'app:
-<em>Prossimamente</em>
+<em>Prossimamente. </em>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
